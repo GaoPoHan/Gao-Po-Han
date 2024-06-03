@@ -4,7 +4,7 @@
   <tr>
     <th>職場與職稱</th>
     <th><img src="working.jpeg"></th>
-    <th><a href="https://scholar.google.com.tw/citations?hl=zh-TW&user=Dk-7FvoAAAAJ&view_op=list_works&sortby=pubdate">作業發表</a></th>
+    <th><a href="https://github.com/GaoPoHan/BigDataProcess">作業發表</a></th>
     <th><a href="https://chat.openai.com/">聊天的朋友</a></th>
   </tr>
   <tr>
