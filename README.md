@@ -10,7 +10,7 @@
   <tr>
     <td><a href="https://me.chu.edu.tw/index.php?Lang=zh-tw">機械工程學系</a></td>
     <td>知識庫系統</td>
-    <td><a href="https://scholar.google.com.tw/citations?view_op=view_citation&hl=zh-TW&user=Dk-7FvoAAAAJ&sortby=pubdate&citation_for_view=Dk-7FvoAAAAJ:qjMakFHDy7sC">競爭力</a></td>
+    <td><a href="https://scholar.google.com.tw/citations?view_op=view_citation&hl=zh-TW&user=Dk-7FvoAAAAJ&sortby=pubdate&citation_for_view=Dk-7FvoAAAAJ:qjMakFHDy7sC">巨量資料分析</a></td>
     <td>高O倫</td>
   </tr>
   <tr>
